@@ -30,11 +30,11 @@ Users can view all available products as well as product by category upon initia
 
 ## Mock Up
 
-![React Portfolio](./src/assets/React-Portfolio.gif)
+![Redux Store](./client/src/assets/Shop-Shop.gif)
 
 ### Link to Deployed Application
 
-https://donnastjames.github.io/React-Portfolio/#portfolio
+https://fathomless-everglades-10506.herokuapp.com/
 
 ## MIT License
 
